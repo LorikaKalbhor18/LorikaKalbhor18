@@ -67,7 +67,7 @@ Building scalable applications with Java, Spring Boot, Angular & AI
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME"/>
+<img src="https://streak-stats.demolab.com?user=LorikaKalbhor18"/>
 
 </p>
 
