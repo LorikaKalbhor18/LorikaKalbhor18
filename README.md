@@ -24,17 +24,6 @@ Building scalable applications with Java, Spring Boot, Angular & AI
 - Legacy System Modernization
 - GenAI & RAG Implementations
 
-🤖 Currently building:
-
-**AgentShield AI**  
-Zero Trust Security Layer for Autonomous AI Agents
-
-📚 Preparing for:
-- DSA
-- System Design
-- Product-Based Company Interviews
-- Advanced Backend Architecture
-
 ---
 
 ## 🚀 Tech Stack
@@ -82,15 +71,6 @@ Zero Trust Security Layer for Autonomous AI Agents
 
 </p>
 
----
-
-## 🎯 Current Goals
-
-✅ Build AI Projects  
-✅ Contribute to Open Source  
-✅ Crack Product-Based Companies  
-✅ Improve System Design Skills  
-✅ Technical Blogging Journey
 
 ---
 
@@ -99,7 +79,7 @@ Zero Trust Security Layer for Autonomous AI Agents
 💼 LinkedIn:  
 www.linkedin.com/in/lorika-kalbhor-5b9781195
 
-📧 Email: your-email@example.com
+📧 Email: lorikajkalbhor@gmail.com
 
 ---
 
