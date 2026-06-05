@@ -71,23 +71,14 @@ Full Stack Developer with **3+ years** of experience building scalable, high-per
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
-<div align="center">
+**🔹 Contributions:** Active contributor to personal and enterprise projects  
+**🔹 Top Languages:** Java, TypeScript, Angular, PostgreSQL  
+**🔹 Focus Areas:** Full Stack Development, System Design, Cloud Architecture  
+**🔹 Open Source:** Always exploring and contributing to interesting projects  
 
-<a href="https://github.com/LorikaKalbhor18">
-  <img height="180em" src="https://stats.quine.sh/api/github/LorikaKalbhor18/contribution"/>
-  <img height="180em" src="https://stats.quine.sh/api/github/LorikaKalbhor18/language"/>
-</a>
-
-</div>
-
-### 📈 More Stats
-
-- ⭐ **GitHub Stars:** Check my repositories
-- 📊 **Active Languages:** Java, TypeScript, Angular
-- 🔥 **Consistent Contributor:** Building projects year-round
-- 🚀 **Open to:** Collaboration, mentoring, and new opportunities
+📍 View my GitHub profile for detailed statistics: [@LorikaKalbhor18](https://github.com/LorikaKalbhor18)
 
 ---
 
@@ -147,7 +138,5 @@ Feel free to reach out if you'd like to discuss technical topics, collaborate on
 ### ⭐ If you find my work interesting, consider giving my repositories a star!
 
 **Happy Coding! 🚀**
-
-![Profile Views](https://komarev.com/ghpvc/?username=LorikaKalbhor18&color=blueviolet&style=flat-square)
 
 </div>
