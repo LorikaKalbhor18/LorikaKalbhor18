@@ -71,25 +71,23 @@ Full Stack Developer with **3+ years** of experience building scalable, high-per
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LorikaKalbhor18&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LorikaKalbhor18&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=LorikaKalbhor18&theme=radical&hide_border=true)](https://github.com/LorikaKalbhor18)
+<a href="https://github.com/LorikaKalbhor18">
+  <img height="180em" src="https://stats.quine.sh/api/github/LorikaKalbhor18/contribution"/>
+  <img height="180em" src="https://stats.quine.sh/api/github/LorikaKalbhor18/language"/>
+</a>
 
 </div>
+
+### 📈 More Stats
+
+- ⭐ **GitHub Stars:** Check my repositories
+- 📊 **Active Languages:** Java, TypeScript, Angular
+- 🔥 **Consistent Contributor:** Building projects year-round
+- 🚀 **Open to:** Collaboration, mentoring, and new opportunities
 
 ---
 
